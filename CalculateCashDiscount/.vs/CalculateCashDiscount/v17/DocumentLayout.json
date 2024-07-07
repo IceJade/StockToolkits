@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Projects\\MyWiki\\StockToolkits\\trunk\\CalculateCashDiscount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{389D87D7-8CEB-4B54-BB1C-1A8148D2E5E5}|CalculateCashDiscount\\CalculateCashDiscount.csproj|h:\\projects\\mywiki\\stocktoolkits\\trunk\\calculatecashdiscount\\calculatecashdiscount\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{389D87D7-8CEB-4B54-BB1C-1A8148D2E5E5}|CalculateCashDiscount\\CalculateCashDiscount.csproj|solutionrelative:calculatecashdiscount\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CalculateCashDiscount||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D87D7-8CEB-4B54-BB1C-1A8148D2E5E5}|CalculateCashDiscount\\CalculateCashDiscount.csproj|h:\\projects\\mywiki\\stocktoolkits\\trunk\\calculatecashdiscount\\calculatecashdiscount\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculateCashDiscount",
+              "DocumentMoniker": "H:\\Projects\\MyWiki\\StockToolkits\\trunk\\CalculateCashDiscount\\CalculateCashDiscount\\CalculateCashDiscount.csproj",
+              "RelativeDocumentMoniker": "CalculateCashDiscount\\CalculateCashDiscount.csproj",
+              "ToolTip": "H:\\Projects\\MyWiki\\StockToolkits\\trunk\\CalculateCashDiscount\\CalculateCashDiscount\\CalculateCashDiscount.csproj",
+              "RelativeToolTip": "CalculateCashDiscount\\CalculateCashDiscount.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-30T09:59:23.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "H:\\Projects\\MyWiki\\StockToolkits\\trunk\\CalculateCashDiscount\\CalculateCashDiscount\\MainForm.cs",
+              "RelativeDocumentMoniker": "CalculateCashDiscount\\MainForm.cs",
+              "ToolTip": "H:\\Projects\\MyWiki\\StockToolkits\\trunk\\CalculateCashDiscount\\CalculateCashDiscount\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "CalculateCashDiscount\\MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:42:49.406Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
